@@ -1,0 +1,13 @@
+{
+  "name": "telegram-copilot-bridge",
+  "version": "1.0.0",
+  "description": "Bridge between Telegram bot and Copilot Studio endpoint",
+  "main": "telegram_copilot_bridge.js",
+  "scripts": {
+    "start": "node telegram_copilot_bridge.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  }
+}
